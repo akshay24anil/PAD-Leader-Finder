@@ -12,6 +12,6 @@
   "dependencies": {
     "concurrently": "^5.2.0",
     "mongoose": "^5.9.13",
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   }
 }
